@@ -1,0 +1,9 @@
+﻿Model,ROC-AUC,PR-AUC,H-Measure,Recall,F1-Score
+Gradient Boosting (GB),0.8198,0.8447,0.3485,0.7954,0.7741
+Random Forest (RF),0.8103,0.834,0.3262,0.7814,0.7666
+XGBoost (XGB),0.8048,0.8308,0.3201,0.7692,0.7581
+Support Vector Machine (SVM),0.7839,0.8118,0.2831,0.7916,0.7545
+Multi-Layer Perceptron (MLP),0.7843,0.8097,0.2838,0.7621,0.7478
+Logistic Regression (LR),0.7481,0.7767,0.224,0.773,0.7286
+Naive Bayes (NB),0.7128,0.7327,0.1746,0.7381,0.7098
+Decision Tree (DT),0.6557,0.6501,0.1137,0.6899,0.6916
